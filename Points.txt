@@ -1,0 +1,354 @@
+Python	-> ready made funtions and libraries
+------
+
+PERL	-> CGI / PERL 	-> special variables - Version 5.6 / 5.8 => 6.0 (parrot)
+----
+
+Ruby	-> MVC pattern (ruby on rails)
+----
+
+Python is an Open Source   - Guido van russum 
+------------------------ 
+
+Desktop App 		=> TKinter 
+
+Web App			=> Flask (REST API), Django (MVC)
+
+Mobile App		=> kivy
+
+Web Scrapping 		=> Beautiful soup
+
+Data Engineering	=> Numpy and Pandas, Apache Spark, Pyspark, Hapdoop, Scala (ETL), 			   PowerBI, Tableau, Qlikview
+
+Testing			=> unit test, selenium, Robot Framework
+
+Data Science		=> Data Analytics
+			   
+			   Machine Learining
+				
+			   Artificial Intelligence
+
+
+
+Python 
+------
+version 2.7			- print "hello"
+
+version - 3.7 + (3.11)		- print("hello")
+
+
+Flavours
+--------
+1. CPython		-	currently unsing
+
+2. Iron Python		-	dot net libraries
+
+3. Jython		-	python code to JAVA
+
+
+Python is a scripting tool
+--------------------------
+
+1. interpreted				1. compiled
+
+2. weakly type data			2, Strongly typed data
+
+a = 10		- integer		int a
+
+a = "hello"	- string		a = 10,  
+					a = 'text'
+a = True	- Boolean
+
+a = 100	= iteger at runtime (dynamic)	a = "hello" string at compilation time(static)
+	
+Python
+------
+1. SDK -> Minimum libraries to execute a python file
+
+2.python shell	- practice some small scripts
+
+3. IDLE - Integrated development Environment
+
+
+Operators overloaded
+====================
++ and * operators are over
+
+
++ => addition and concatenation 
+
+* => multiply and to print strings n num of times
+
+
+Numbers (3.x)
+-------------
+1. integer
+2. long		(deprecated)
+3. float
+4. complex
+
+
+257568678689552275797808988908901L
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python311
+
+
+module name - imp
+funtion	    - reload
+
+import imp	-	all functions from the module will be imported
+
+from imp import reload	   - only the reload function is imported
+
+
+Editors
+-------
+Pycharm CE
+
+Visual Studio Code CE
+
+Sublimetext
+
+Eclipse - patch
+
+
+Coding Rules
+-------------
+
+all lines of code should start from first column in the line
+
+
+#!	- She bang	-	to specify the python.exe path
+
+
+Comments
+--------
+python supports only a single line comment
+
+
+Strings 
+-------
+single line strings are enclosed in ' ' or " "
+
+'this is a single line'
+"this is a single line"
+
+multiple line strings are enclosed in """    """ or '''     '''
+
+"""
+This is the first line.
+This is the second line.
+This is the third line. """
+
+
+'''
+This is the first line.
+This is the second line.
+This is the third line. '''
+
+
+Python code we dont use paranthesis in 
+
+a. if condition
+
+b. for loop
+
+c. functions
+
+
+if cond == True
+{
+
+} else  {
+
+}
+
+
+function fun()
+{
+
+}
+
+ 
+function fun():
+	print("hello world")
+
+	for i in range(1, 21):
+		if i % 2 == 0:	
+			print(i)
+
+	print("Hello World")
+
+
+fun()
+		
+
+---------------------------------------------------------------------------------------
+
+Primitive Datatypes in Python
+-----------------------------
+
+1.Numbers
+  a. integers
+  b. float
+  c. complex 
+
+2. Strings
+
+3. Boolean
+
+
+
+Numbers
+
+
+Bitwise operators
+-----------------
+5 = 0101 
+3 = 0011
+
+or 
+
+0101
+0011
+----
+0111
+----
+
+and
+----
+0101
+0011
+----
+0001
+----
+
+XOR
+----
+0101
+0011
+----
+0110
+
+<< left shift
+-------------
+0101 << => 1010
+
+1000 << => 10000
+
+0101 << => 10100
+
+
+>> right Shift
+--------------
+10000 >> 1000
+
+0101 >> 0010
+
+
+Loops and Control Structures
+----------------------------
+
+Control structure
+-----------------
+if condition
+
+
+Loops
+-----
+1. for loop
+2. while loop
+
+continue, break and else
+
+for loop =  start, end and the increment all become a part of the synstax
+
+for loop is similar to foreach loop
+
+it relies on a collection
+
+list(range(1, 10))	=> 1...9
+
+
+for i in range(1, 10):	 - iterates 9 times
+
+for i in range(1, 11)
+
+Print function
+--------------
+print(data, sep=, end="\n")
+
+
+Exercise
+--------
+
+1. print this pattern
+
+1 2 3 4 5 
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1 
+ 4 3 2 1
+5 4 3 2 1 
+
+
+2. generate prime numbers between 150 and 50 and also print the count of it
+
+
+Strings
+-------
+strings are immutable
+
+single line strings are enclosed in either ' ' or " "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
