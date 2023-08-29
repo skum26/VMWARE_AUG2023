@@ -306,6 +306,105 @@ single line strings are enclosed in either ' ' or " "
 
 
 
+****************************************Day02*******************************************************
+
+Assignment  01
+
+==================================================
+Item                                         Price
+==================================================
+Apples                                        0.40
+Pears                                         0.50
+Cantaloupes                                   1.92
+Dried Apricots (16 oz.)                       8.00
+Prunes (4 lbs.)                              12.00
+==================================================
+
+Assignment 02
+
+months = ['dec', 'aug', 'oct', 'jul', 'jan', 'nov', 'apr', 'sep', 'feb', 'may', 'jun', 'mar']
+
+sort these month according to the calendar
+
+
+
+
+
+
+
+
+
+
+Data Structures
+----------------
+1. Lists
+2. dictionary
+3. tuple
+4. set
+
+
+Lists are similar to arrays
+
+Arrays
+------
+1. collection of homogenous elements
+2. memory allocation is contigious and static
+
+
+Lists
+-----
+1. collection hetrogenous data
+2. memory allocation not contigious but it is static
+3. ordered collection - 
+4. mutable
+5. subscriptable
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 
+'insert', 'pop', 'remove', 'reverse', 'sort'
+
+add element into a list 	- append, insert, extend
+remove elements form a list 	- pop, remove, clear
+other functions			- copy, count, index, reverse and sort
+
+
+Dictionary
+----------
+1. associative array
+
+index =  0    1    2    3    4    5
+ar    = 'a', 'b', 'c', 'd', 'e', 'f'
+
+associative array =>{0:'a', 1: 'b', 2: 'c', 3:'d', 4: 'e', 5:'f' }
+
+keys - 0, 1, 2, 3, 4, 5
+values - a, b, c, d, e, f
+
+keys are user defined and should be unique
+
+
+2. unordered collection
+3. mutable
+4. enclosed in { }
+
+clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 
+'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+tuple
+-----
+1. immutable lists
+2. ordered collection
+3. subscriptable
+4. enclosed in ()
+
+
+sets
+----
+1. elements of a set is always unique
+2. sets unordered
+3. not subscriptable
+4. mutable
+5. enclosed {}
 
 
 
@@ -326,6 +425,7 @@ single line strings are enclosed in either ' ' or " "
 
 
 
+ 
 
 
 
